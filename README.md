@@ -23,8 +23,6 @@
 
 Hi, I'm Habib Husain Amirullah, a Newbie Software Engineer 🚀 from Indonesia, currently, I'm a Fullstacks Web Developer, with a constantly growing love for languages, I also have a great interest about Artificial Intelligence and Data Science. Beside's programming, I enjoy Action, Biograpy, Drama, and History Movies.
 
-![fdciabdul github stats](https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
