@@ -1,16 +1,17 @@
 ### Hey 👋🏽, I'm [Husain!](https://github.com/segoSambel)
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/JuraganKormaa">
   <img align="left" alt="Habib Husain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/juragankorma/">
   <img align="left" alt="Husain's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/">
+<a href="https://t.me/JuraganKorma">
   <img align="left" alt="Husain's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.reddit.com/">
+<a href="https://www.reddit.com/user/JuraganKorma">
   <img align="left" alt="Husain's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 <a href="https://www.instagram.com/husain.a93">
   <img align="left" alt="Husain's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
