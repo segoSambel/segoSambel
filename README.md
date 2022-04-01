@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm Habib Husain Amirullah, a Newbie Software Engineer 🚀 from Indonesia, currently, I'm a Fullstacks Web Developer, with a constantly growing love for languages, I also have a great interest about Artificial Intelligence and Data Science. Beside's programming, I enjoy Action, Biograpy, Drama, and History Movies.
+Hi :octocat:, my name is Habib Husain Amirullah, I'm a Beginner Software Engineer from Indonesia 🇮🇩, I'm currently trying to become a Professional Flutter Developer and maybe a Back-end Developer, with a growing love for languages. The topic of Artificial Intelligence and Data Science has caught a lot of my attention, nevertheless I don't think I'll be delving this topic anytime soon, I'm still struggling with flutter afterall. Apart from programming, I enjoy Action movies, Biography and History.
 
 **Talking about Personal Stuffs:**
 
