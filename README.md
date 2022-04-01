@@ -1,22 +1,22 @@
 ### Hey 👋🏽, I'm [Husain!](https://github.com/segoSambel)
 
 <a href="https://twitter.com/JuraganKormaa">
-  <img align="left" alt="Habib Husain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Habib Husain | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/1da1f3" />
 </a>
 <a href="https://www.linkedin.com/in/juragankorma/">
-  <img align="left" alt="Husain's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Husain's LinkedIN" width="22px" src="https://simpleicons.vercel.app/linkedin/2362aa" />
 </a>
 <a href="https://t.me/JuraganKorma">
-  <img align="left" alt="Husain's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Husain's Telegram" width="22px" src="https://simpleicons.vercel.app/telegram/329ed8" />
 </a>
 <a href="https://www.reddit.com/user/JuraganKorma">
-  <img align="left" alt="Husain's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Husain's Reddit" width="22px" src="https://simpleicons.vercel.app/reddit/f14202" />
 </a>
 <a href="https://www.instagram.com/husain.a93">
-  <img align="left" alt="Husain's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Husain's instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
 <a href="https://web.facebook.com/profile.php?id=100007424777069">
-  <img align="left" alt="Husain's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Husain's Facebook" width="22px" src="https://simpleicons.vercel.app/facebook/1685e6" />
 </a>
 
 <br />
