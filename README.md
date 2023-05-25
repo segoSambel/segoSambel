@@ -3,7 +3,7 @@
 <a href="https://twitter.com/JuraganKormaa">
   <img align="left" alt="Habib Husain | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/1da1f3" />
 </a>
-<a href="https://www.linkedin.com/in/juragankorma/">
+<a href="https://www.linkedin.com/in/amirullah13/">
   <img align="left" alt="Husain's LinkedIN" width="22px" src="https://simpleicons.vercel.app/linkedin/2362aa" />
 </a>
 <a href="https://t.me/JuraganKorma">
